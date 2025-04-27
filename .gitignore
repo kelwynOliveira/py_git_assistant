@@ -1,0 +1,6 @@
+__pycache__
+.DS_store
+.venv
+build
+dist
+py_git_assistant.egg-info
