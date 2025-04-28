@@ -20,6 +20,7 @@ class UIService:
         questionary.Choice(title="Init repo", value="init"),
         questionary.Choice(title="Push all changes", value="push-all"),
         questionary.Choice(title="Clone repository", value="clone"),
+        questionary.Choice(title="Remote repository", value="remote"),
         questionary.Choice(title="Branch management", value="branch"),
         questionary.Choice(title="Exit", value="exit"),
       ]

@@ -29,6 +29,11 @@ class GitService:
         run(["git", "clone", url])
 
     @staticmethod
+    def add_remote_repo():
+        url = safe_ask(UIService.ask_text("Repository URL:"))
+        run(["git", "remote", "add", "origin", url])
+
+    @staticmethod
     def branch_menu():
         action = safe_ask(UIService.ask_branch_action())
         match action:

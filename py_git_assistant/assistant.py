@@ -15,6 +15,8 @@ def main():
         GitService.push_all()
       case "clone":
         GitService.clone_repo()
+      case "remote":
+        GitService.add_remote_repo()
       case "branch":
         GitService.branch_menu()
       case "exit":

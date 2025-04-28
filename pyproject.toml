@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "py-git-assistant"
-version = "0.1.1"
+version = "0.1.2"
 description = "A simple CLI tool to assist with common Git operations."
 readme = "README.md"
 requires-python = ">=3.8"
