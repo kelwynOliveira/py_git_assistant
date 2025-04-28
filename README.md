@@ -22,6 +22,16 @@
 
 > Recommended: Use a virtual environment (`venv`)
 
+### From Pypi
+
+[Pypi link](https://pypi.org/project/py-git-assistant/)
+
+```bash
+pip install py-git-assistant
+```
+
+### From github repo
+
 1. Clone the repository:
 
 2. Install the project:
