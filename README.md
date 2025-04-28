@@ -63,6 +63,7 @@ What fo you want to do?
 > Init repo       (Initialize Git and remote)
 > Push all        (Add, commit, and push changes)
 > Clone repo      (Clone a remote repository)
+> Remote repo     (Add a remote repository)
 > Manage branch   (Create/Switch branches)
 > Exit
 ```
